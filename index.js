@@ -13,7 +13,7 @@ define(function(require, exports, module) {
     return Object.assign(exports, {
         "__main__": main,
         "__url__": "",
-        "__semver__": "v0.1.0",
+        "__semver__": "v0.1.1",
         "__license__": "",
         "__deps__": {},
         "__tests__": []
